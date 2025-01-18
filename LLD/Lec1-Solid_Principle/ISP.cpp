@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// Before ISP - don't forcve to implement methods not needed by the class
+// Before ISP - don't forcve to implement methods not needed by the class (Interface Segregation Principle)
 
 class Worker{
     public:

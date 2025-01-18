@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/satyam_shahi_31/Desktop/System_Design/LLD/Lec1-Solid_Principle",
+      "program": "/Users/satyam_shahi_31/Desktop/System_Design/LLD/Lec1-Solid_Principle/build/Debug/outDebug"
+    }
+  ]
+}

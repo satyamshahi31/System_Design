@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// LSP - Superclass obj can be replaced by subclass obj 
+// LSP - Superclass obj can be replaced by subclass obj (Liskov Substitution Principle)
 class Bird{
     public:
     virtual void fly() = 0;

@@ -3,7 +3,7 @@
 using namespace std;
 
 // OCP - Add new functionality without modifying existing code
-//Base Shape Class
+//Base Shape Class ( Open Closed Principle)
 class Shape{
     public:
     virtual double area() = 0;
